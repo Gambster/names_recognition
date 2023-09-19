@@ -1,0 +1,19 @@
+{
+  "name": "names_recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gambster/names_recognition.git"
+  },
+  "author": "Gambster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gambster/names_recognition/issues"
+  },
+  "homepage": "https://github.com/Gambster/names_recognition#readme"
+}
