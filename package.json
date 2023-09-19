@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Gambster/names_recognition/issues"
   },
-  "homepage": "https://github.com/Gambster/names_recognition#readme"
+  "homepage": "https://github.com/Gambster/names_recognition#readme",
+  "dependencies": {
+    "@fast-csv/parse": "^4.3.6",
+    "fast-csv": "^4.3.6",
+    "wink-ner": "^2.1.0"
+  }
 }
